@@ -25,6 +25,7 @@ Official Bot Of @KbfcManjappada Group
 The Manjappada Fans Group are the most Active & biggest fan group of KBFC Awarded As the Best Fans Of The Year  2014 by Indian Sports Honour 🏆 
 
 Established: 28 May 2014!
+/start
 """
 
 HELP_STRINGS = """
