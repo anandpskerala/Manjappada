@@ -1,3 +1,4 @@
+
 import datetime
 import importlib
 import re
@@ -26,7 +27,8 @@ The Manjappada Fans Group are the most Active & biggest fan group of KBFC Awarde
 Established: 28 May 2014
 
 
-Group Manager bot maintained by this [wonderful person](https://t.me/SlYAD)
+Group Manager bot maintained by @SlYAD
+
 Manjappada official Telegram t.me/KBFCManjappada
 """
 HELP_STRINGS = """
