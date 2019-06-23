@@ -27,8 +27,8 @@ Established: 28 May 2014
 
 
 Group Manager bot maintained by this [wonderful person](https://t.me/SlYAD)
+Manjappada official Telegram t.me/KBFCManjappada
 """
-
 HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
