@@ -27,7 +27,8 @@ The Manjappada Fans Group are the most Active & biggest fan group of KBFC Awarde
 Established: 28 May 2014
 
 
-Group Manager bot maintained by @SlYAD
+Group Manager bot maintained by @SlYAD 
+v2.0
 
 Manjappada official Telegram t.me/KBFCManjappada
 """
